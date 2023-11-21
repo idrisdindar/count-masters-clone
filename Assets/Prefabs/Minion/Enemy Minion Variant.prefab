@@ -1,0 +1,341 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100432673081843571
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1514251356282667799, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548507269057, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 59e2012a00a8c431593465e7854f0ea5, type: 2}
+    - target: {fileID: 8628660548518771361, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518771361, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_TagString
+      value: Minion/Enemy
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518771363, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518771363, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_TagString
+      value: Minion/Enemy
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518771365, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518771365, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_TagString
+      value: Minion/Enemy
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518771367, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518771367, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_TagString
+      value: Minion/Enemy
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518771369, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518771369, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_TagString
+      value: Minion/Enemy
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518771371, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518771371, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_TagString
+      value: Minion/Enemy
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518771373, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518771373, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_TagString
+      value: Minion/Enemy
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518771375, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_Name
+      value: Enemy Minion Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518771375, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518771375, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_TagString
+      value: Minion/Enemy
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518771377, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518771377, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_TagString
+      value: Minion/Enemy
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518771379, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518771379, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_TagString
+      value: Minion/Enemy
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518771381, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518771381, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_TagString
+      value: Minion/Enemy
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518771383, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518771383, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_TagString
+      value: Minion/Enemy
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518771385, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518771385, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_TagString
+      value: Minion/Enemy
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518771387, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518771387, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_TagString
+      value: Minion/Enemy
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518771389, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518771389, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_TagString
+      value: Minion/Enemy
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518771391, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518771391, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_TagString
+      value: Minion/Enemy
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518771393, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518771393, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_TagString
+      value: Minion/Enemy
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518771395, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518771395, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_TagString
+      value: Minion/Enemy
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518771397, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518771397, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_TagString
+      value: Minion/Enemy
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518771399, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518771399, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_TagString
+      value: Minion/Enemy
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518771401, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518771401, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_TagString
+      value: Minion/Enemy
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518771403, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518771403, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_TagString
+      value: Minion/Enemy
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518771405, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518771405, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_TagString
+      value: Minion/Enemy
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518771407, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518771407, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_TagString
+      value: Minion/Enemy
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518771409, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518771409, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_TagString
+      value: Minion/Enemy
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518771411, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518771411, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_TagString
+      value: Minion/Enemy
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518771413, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518771413, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_TagString
+      value: Minion/Enemy
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518771415, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518771415, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_TagString
+      value: Minion/Enemy
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518771417, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518771417, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_TagString
+      value: Minion/Enemy
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518771419, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518771419, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_TagString
+      value: Minion/Enemy
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518771421, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518771421, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_TagString
+      value: Minion/Enemy
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518771423, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518771423, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_TagString
+      value: Minion/Enemy
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518864589, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518864589, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518864589, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518864589, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518864589, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518864589, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518864589, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518864589, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518864589, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518864589, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628660548518864589, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+--- !u!1 &8564694162455242204 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8628660548518771375, guid: ecf58458bc9134c4da54b1dca45cd5bd, type: 3}
+  m_PrefabInstance: {fileID: 100432673081843571}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &118161865043834135
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8564694162455242204}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bea1d1849324961afdf513a04e897cf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _deathParticle: {fileID: 19800008, guid: 4d98c5a1c9f884c87864378f79888368, type: 3}
