@@ -1,7 +1,9 @@
+using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.InputSystem.EnhancedTouch;
-using UnityEngine.Serialization;
+using Touch = UnityEngine.InputSystem.EnhancedTouch.Touch;
 
 namespace IdrisDindar.HyperCasual.Managers
 {
@@ -49,7 +51,7 @@ namespace IdrisDindar.HyperCasual.Managers
             {
                 _inputPosition = Touch.activeTouches[0].screenPosition;
 
-                if (!m_HasInput)
+                if (!_hasInput)
                 {
                     _previousInputPosition = _inputPosition;
                 }
